@@ -2,7 +2,7 @@
 
 ## Description
 
-Password Generator is a website, that generates a random password. The more criteria used & the longer your password length, the more secure your password will be! This will be based on the following: 
+Password Generator is a website, that generates a random password. The more criteria selected and longer  password length, the more secure your password will be! This will be based on the following: 
 1) Your desired Password length. Must be between 8-128.
 2) The four criteria:
     * Uppercase letters:  _ABCDEFGHIJKLMNOPQRSTUVWXYZ_
